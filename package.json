@@ -1,0 +1,27 @@
+{
+  "name": "verified-speculative-branch-lab",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Compare isolated candidate repairs under shared checks.",
+  "main": "verified-speculative-branch-lab.js",
+  "exports": {
+    ".": "./verified-speculative-branch-lab.js"
+  },
+  "files": [
+    "verified-speculative-branch-lab.js",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "agents",
+    "reliability",
+    "verification",
+    "verified-speculative-branch-lab"
+  ],
+  "license": "MIT"
+}
